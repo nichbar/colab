@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter / Colab checkpoints
+.ipynb_checkpoints/
+
+# Local configuration & environment variables
+.env
+.env.*
+*.key
+*.pem
+*.token
+
+# Generated test artifacts & output images
+test_output.png
+outputs/
+*.log
+*.tmp
+
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
